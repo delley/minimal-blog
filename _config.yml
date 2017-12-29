@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Minimal
+title: Minimal Blog
 email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll."
-baseurl: ""
-url: ""
+baseurl: "minimal-blog"
+url: "https://delley.github.io"
 twitter_username: minimal_twitter
 github_username:  minimal_github
 
